@@ -1,5 +1,5 @@
 # Etch-transfer
-Export and import Etch pages, templates, patterns, and components, WSForms between WordPress sites, complete with all classes and styles. 
+Export and import Etch pages, templates, patterns, and components, JSon Loops, WSForms between WordPress sites, complete with all classes and styles. 
 
 Built for use with [Etch for WordPress](https://etchwp.com/).
 
